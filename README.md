@@ -244,17 +244,6 @@ RegexAlt achieves **zero runtime overhead** by compiling patterns at build time:
 - **Runtime:** Uses native Java `Pattern` objects
 - **Performance:** Identical to hand-written regex
 
-## 🤝 Contributing
-
-Contributions are welcome! Areas for improvement:
-
-- [ ] Add lookahead/lookbehind support
-- [ ] Implement named capture groups
-- [ ] Add character ranges (e.g., `range('a', 'z')`)
-- [ ] Support for anchors (`start_of_line`, `end_of_line`)
-- [ ] Create VSCode extension with syntax highlighting
-
-
 
 ## 🙏 Acknowledgments
 
