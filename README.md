@@ -43,7 +43,7 @@ Crystal clear! And it compiles to the exact same regex with **zero runtime overh
 
 Clone and build:
 ```bash
-git clone https://github.com/YOUR_USERNAME/regex-alt.git
+git clone https://github.com/jashjop/regex-alt.git
 cd regex-alt
 mvn clean install
 ```
@@ -255,9 +255,7 @@ Contributions are welcome! Areas for improvement:
 - [ ] Support for anchors (`start_of_line`, `end_of_line`)
 - [ ] Create VSCode extension with syntax highlighting
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -265,11 +263,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Maven** - Build automation
 - **JUnit** - Testing framework
 
-## 📧 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/YOUR_USERNAME/regex-alt](https://github.com/YOUR_USERNAME/regex-alt)
 
 ---
 
